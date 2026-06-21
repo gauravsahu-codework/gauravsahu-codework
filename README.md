@@ -1,4 +1,3 @@
-
 <!-- Animated Typing Header -->
 <!-- <h1 align="center">
 <p align="center">
@@ -13,7 +12,7 @@
 <!-- TYPING HEADER -->
 <p align="center">
   <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋%20+I'm+Gaurav+Sahu!;Full+Stack+%26+UI%2FUX+Developer;Educator+%7C+Mentor+%7C+Builder;1000%2B+Students+Mentored+🚀;Crafting+Experiences+That+Feel+Right+✨" alt="Typing SVG" /> -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Gaurav+Sahu!;Full+Stack+Developer;UI%2FUX+Enthusiast;Educator+%7C+Mentor+%7C+Builder;1000%2B+Students+Mentored+🚀;Crafting+Experiences+That+Feel+Right+✨;Building+Modern+Web+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Gaurav+Sahu!;Full+Stack+Developer;UI%2FUX+Enthusiast;Educator+%7C+Mentor+%7C+Builder;1000%2B+Students+Mentored;Crafting+Experiences+That+Feel+Right;Building+Modern+Web+Apps" />
 </p>
 
 ---
